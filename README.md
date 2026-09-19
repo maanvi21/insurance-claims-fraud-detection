@@ -4,8 +4,6 @@ A hybrid machine learning system that scores insurance claims for fraud risk, pa
  
 > **Status:** Model pipeline is complete. The dashboard currently reads from `fraud-data.ts` (sample data) and is not yet wired to a live inference API. See [Limitations & Roadmap](#limitations--roadmap).
  
-![Architecture Diagram](diagram.png)
-
 ---
  
 ## Table of Contents
